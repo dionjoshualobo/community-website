@@ -148,7 +148,8 @@ export const communities: Community[] = [
         role: "President",
         email: "mahammadsafwant786@gmail.com",
       },
-    ],
+    ],,
+    website: "https://techbotsit.netlify.app/",
   },
   {
     id: 6,
