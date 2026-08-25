@@ -113,6 +113,7 @@ export default function Navbar() {
     { href: "/communities", label: "Communities" },
     { href: "/calendar", label: "Calendar" },
     { href: "/projects", label: "Projects" },
+    { href: "/blog", label: "Blog" },
   ];
 
   // Calculate total header height for spacer

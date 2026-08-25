@@ -179,6 +179,16 @@ Want to showcase your project on the DK24 website? Follow these steps:
 
 > 🤖 **Automation**: Your PR will be automatically validated. Once approved by 2 reviewers, it will be merged, and your project will be automatically added to the website!
 
+## ✍️ Adding Your Blog Post
+
+Want to write for the DK24 blog? Follow these steps:
+
+1.  **Fork the Repository**: Click the "Fork" button at the top right of this page.
+2.  **Add Your Post**: Create a new folder under [`public/blog/`](./public/blog/) with an `index.md` and your images. **See [BLOG.md](./BLOG.md) for the complete frontmatter reference, folder structure, and examples.**
+3.  **Submit a Pull Request**: Open a PR with your changes.
+
+> 🤖 **Automation**: A post with missing or invalid frontmatter will fail the build automatically, so issues are caught before merge. Pinning a post to the top of `/blog` is a separate, maintainer-only step — see [BLOG.md](./BLOG.md#pinning-a-post).
+
 ## 💬 Community
 
 ### 🌐 Connect With Us
